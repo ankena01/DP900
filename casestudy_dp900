@@ -1,0 +1,35 @@
+
+A. These Practice Assessments will give you an idea of the exam's style, language, and complexity. The exam's duration and difficulty are not reflected in these questions (e.g., you may see additional question types, multiple case studies, and labs) however they do provide examples to help you prepare for the exam
+https://learn.microsoft.com/certifications/exams/dp-900/practice/assessment?WT.mc_id=academic-94420-abartolo&assessment-type=practice&assessmentId=24
+
+B. Case Study - These scenarios are designed to provide practical, hands-on experience within the Azure portal.
+
+1. Setting Up a SQL Database in Azure
+•	Scenario: A retail company wants to migrate its product inventory database to the cloud.
+•	Task: Create an Azure SQL Database, import sample data (such as product information), and demonstrate basic operations like querying and updating data.
+•	Learning Objective: Understand how to set up, manage, and interact with SQL databases in Azure.
+
+2. Implementing Azure Blob Storage
+•	Scenario: A media agency needs to store large amounts of unstructured data such as images and videos.
+•	Task: Set up an Azure Blob Storage account, upload sample media files, and implement a basic retrieval process.
+•	Learning Objective: Gain experience in working with Azure Blob Storage for handling unstructured data.
+
+3. Data Lake Exploration and Analytics
+•	Scenario: A financial institution wishes to perform big data analytics on historical transaction data.
+•	Task: Create an Azure Data Lake Store, upload sample transaction data, and use Azure Databricks to run basic analytics queries.
+•	Learning Objective: Learn how to store and analyze large datasets using Azure Data Lake and Azure Databricks.
+
+4. Real-time Data Processing with Azure Stream Analytics
+•	Scenario: An IoT company wants to process real-time data from its devices.
+•	Task: Set up an Azure Stream Analytics job to process real-time data (simulated IoT device data) and output results to a Power BI dashboard.
+•	Learning Objective: Understand the implementation of real-time data processing and visualization using Azure Stream Analytics and Power BI.
+
+5. Azure Cosmos DB Implementation
+•	Scenario: An e-commerce platform requires a globally distributed database for its user profiles and product catalog.
+•	Task: Create an Azure Cosmos DB instance, insert sample data, and perform various database operations (CRUD).
+•	Learning Objective: Gain hands-on experience in setting up and working with Azure Cosmos DB, focusing on global distribution and multi-model database capabilities.
+
+6. Implementing a Data Warehouse with Azure Synapse Analytics
+•	Scenario: An organization requires a data warehouse solution to analyze sales data across multiple regions.
+•	Task: Set up Azure Synapse Analytics, create a data warehouse, import sample sales data, and perform basic data warehousing operations.
+•	Learning Objective: Gain insights into the creation and management of data warehouses using Azure Synapse Analytics.
